@@ -6,7 +6,7 @@ import os
 import cv2 as cv
 
 
-print('sara')
+print('sara es una boba')
 
 path = "/media/bravo-z6/Shared/_Dataset/_DICOM_7SERIES/fase_2_path.csv"
 
