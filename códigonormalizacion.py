@@ -5,6 +5,9 @@ import pydicom
 import os
 import cv2 as cv
 
+
+print('sara')
+
 path = "/media/bravo-z6/Shared/_Dataset/_DICOM_7SERIES/fase_2_path.csv"
 
 data = pd.read_csv(path)
